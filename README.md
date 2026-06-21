@@ -1,4 +1,6 @@
 # python-practice
-starting self learning journey from python 
+Learning Python for placements and software development.
 
-no more things to share for now.. will update readme after certain achivement 😊
+## Progress
+day1 : print and basic syntax
+day2 : variables, datatypes
