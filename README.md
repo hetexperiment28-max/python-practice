@@ -7,3 +7,4 @@ day2 : variables, datatypes
 day3 : String Function, Escape Function
 day4 : Tuple & List along with small problems
 day5 : dictionary methods and problems
+day6 : use of conditional operators & multiple condition logic
