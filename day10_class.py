@@ -1,3 +1,4 @@
+#day10:class
 class employee:
     language = "Python"
     salary = 1000
