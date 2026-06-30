@@ -11,3 +11,5 @@ day6 : use of conditional operators & multiple condition logic
 day7 : Loops and its functions 
 day8 : problem_solving combining using loops 
 day9 : function with arguments & recursion
+day10 : class 
+day11 : problems of class
