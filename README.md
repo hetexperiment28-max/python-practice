@@ -13,3 +13,4 @@ day8 : problem_solving combining using loops
 day9 : function with arguments & recursion
 day10 : class 
 day11 : problems of class
+day12 : type cast
