@@ -3,6 +3,7 @@ students = [
     {"name": "Raj", "marks": 90},
     {"name": "Amit", "marks": 70}
 ]
+
 #task1 print names
 for student in students:
     name = student["name"]
@@ -25,18 +26,6 @@ if found == True:
      
 else :
  print("Not Found")
-
-# found = False
-
-# for student in students:
-#     if student["name"] == search:
-#         found = True
-#         break
-
-# if found:
-#     print("Found")
-# else:
-#     print("Not Found")
 
 #task4 highest marks 
 highest_marks = 0
