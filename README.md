@@ -14,3 +14,7 @@ day9 : function with arguments & recursion
 day10 : class 
 day11 : problems of class
 day12 : type cast
+
+(From now combining all knowledges in tasks)
+
+day13 : multiple dictionary handling normal tasks
