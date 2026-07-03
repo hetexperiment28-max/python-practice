@@ -18,3 +18,4 @@ day12 : type cast
 (From now combining all knowledges in tasks)
 
 day13 : multiple dictionary handling normal tasks
+day14 : combined dictionary logics like add , total, search
