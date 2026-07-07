@@ -22,3 +22,4 @@ day14 : combined dictionary logics like add , total, search
 day15 : Building student record manager program
 day16 : Mini data analyst project for real exposure
 day17 : data handling mini project practice
+day18 : Sales analysis
