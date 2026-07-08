@@ -1,0 +1,6 @@
+Craft Labs Report
+
+Completed Orders: 3
+Pending Orders: 2
+Revenue: 1700
+Highest Order: Jay - 500
