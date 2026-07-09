@@ -1,0 +1,5 @@
+Craft Labs Sales Summary :
+
+Total sales: 3840
+Highest customer : ('Raj', 800)
+Ahmedabad orders: {'Het', 'Amit', 'Harvis'}
