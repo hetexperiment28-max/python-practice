@@ -26,3 +26,4 @@ day18 : Sales analysis
 day19 : handling business order data
 day20 : Business data project2
 day21 : Daily sales data processing
+day22 : Recent orders processing for practice
