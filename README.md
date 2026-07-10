@@ -25,3 +25,4 @@ day17 : data handling mini project practice
 day18 : Sales analysis
 day19 : handling business order data
 day20 : Business data project2
+day21 : Daily sales data processing
