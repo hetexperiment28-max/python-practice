@@ -28,3 +28,4 @@ day20 : Business data project2
 day21 : Daily sales data processing
 day22 : Recent orders processing for practice
 day23 : used previous data to review bug and adding new features
+day24 : Drone data project to experience how real world data from hardware sensors looks like
