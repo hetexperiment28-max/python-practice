@@ -1,0 +1,5 @@
+flight report data:
+
+Max altitude :42
+Average speed :15.4
+GPS Lost count : 1
