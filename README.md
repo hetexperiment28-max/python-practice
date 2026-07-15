@@ -31,3 +31,4 @@ day23 : used previous data to review bug and adding new features
 day24 : Drone data project to experience how real world data from hardware sensors looks like
 day25 : Sensor Monitoring System from Esp8266 pseudo data
 day26 : Software Basics like menus, user options 
+day27 : Drone Fleet Manager (Menu feature added With Exception handling)
