@@ -34,6 +34,7 @@ Building larger console applications by combining Python fundamentals with real-
 
 
 ## Day Progress
+
 day1 : print and basic syntax
 day2 : variables, datatypes
 day3 : String Function, Escape Function
@@ -47,8 +48,8 @@ day10 : class
 day11 : problems of class
 day12 : type cast
 
-# Connecting gained Knowledge together for applications and Understanding
 
+# Connecting gained Knowledge together for applications and Understanding
 day13 : multiple dictionary handling normal tasks
 day14 : combined dictionary logics like add , total, search
 day15 : Building student record manager program
@@ -66,5 +67,5 @@ day26 : Software Basics like menus, user options
 day27 : Drone Fleet Manager (Menu feature added With Exception handling)
 Day28 : Customer bug report Analysis
 day29 : Order management system
-
+Day30 : Filament Inventory System
 
