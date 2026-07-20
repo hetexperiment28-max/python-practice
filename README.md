@@ -69,4 +69,4 @@ Day28 : Customer bug report Analysis
 day29 : Order management system
 Day30 : Filament Inventory System
 Day31 : Customer Ticker System
-
+Day32 : Print Queue management
