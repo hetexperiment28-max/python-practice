@@ -86,3 +86,4 @@ Day42 : OOP Phase 10 Abstraction
 Day43 : Library Management System
 Day44 : Smart Parking Management
 Day45 : Folder management
+Day46 : Invntory Management
